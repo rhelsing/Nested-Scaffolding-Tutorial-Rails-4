@@ -31,3 +31,15 @@ Working sample of nested scaffold with Users and Posts
 10. Show, edit, delete, new links on index
 11. Posts link on users index
 12. rails s
+
+
+## Todo
+* create nested generator
+
+	rails g nest user name:string && user:has_many:post title:string
+
+	rails g nest user name:string has_many && user:has_many:post title:string body:text && post:has_many:comment body:text && user:has_many:notes content:text
+
+
+* goal is to generate complicated associations with one command.
+* also has_one / has_many_and_belongs_to
