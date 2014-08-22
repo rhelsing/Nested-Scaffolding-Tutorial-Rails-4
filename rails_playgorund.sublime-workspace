@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"touch",
+				"touch_page"
+			],
+			[
+				"sor",
+				"sorted"
+			],
+			[
+				"subject",
+				"subject_id"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"auth",
+				"authorized_user"
+			],
+			[
+				"al",
+				"always_fail"
+			],
+			[
+				"E",
+				"EMAIL_REGEX"
+			],
+			[
+				"em",
+				"EMAIL_REGEX"
+			],
+			[
+				"val",
+				"validates_length_of"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"vali",
+				"validates_length_of"
+			],
+			[
+				"C",
+				"CONTENT_TYPES"
+			],
+			[
+				"erro",
+				"error_messages_for  (function)"
+			],
+			[
+				"style",
+				"stylesheet_link_tag  (function)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pric",
+				"price_icon"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"price",
+				"price_block"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pro",
+				"providerid  (variable)"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"form",
+				"form_open"
+			],
+			[
+				"beer",
+				"beer_page"
+			],
+			[
+				"ob",
+				"objkey  (variable)"
+			],
+			[
+				"Pro",
+				"ProviderName"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"name",
+				"name2  (variable)"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"lo",
+				"logged_in"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"pri",
+				"provider"
+			],
+			[
+				"da",
+				"day_counter  (variable)"
+			],
+			[
+				"day",
+				"day_counter"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"fla",
+				"flag_count"
+			],
+			[
+				"last",
+				"last_ten_drinks"
+			],
+			[
+				"to",
+				"total_opens  (variable)"
+			],
+			[
+				"_",
+				"_count_opens"
+			],
+			[
+				"re",
+				"repeat-x  (value)"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"alc",
+				"Alcohol"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"htm",
+				"html2"
+			],
+			[
+				"be",
+				"beer_page"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"ch",
+				"checkboxxes"
+			],
+			[
+				"div",
+				"division"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"on",
+				"onoff"
+			],
+			[
+				"arr",
+				"array_onoff"
+			],
+			[
+				"fil",
+				"filter_params"
+			],
+			[
+				"item",
+				"itemsFinal  (variable)"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"date_f",
+				"date_from"
+			],
+			[
+				"total",
+				"total_cols"
+			],
+			[
+				"compare",
+				"compare_cols"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"po",
+				"posts_per_page"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padding",
+				"padding-bottom:   (property)"
+			],
+			[
+				"bx",
+				"bxslider"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"new",
+				"newPrice"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"id",
+				"ident"
+			],
+			[
+				"por",
+				"portfolio"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"save",
+				"save_db"
+			],
+			[
+				"get",
+				"getFormData"
+			],
+			[
+				"cat",
+				"catVal"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git ps",
+				"Git: Push Current Branch"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo … ?>"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrao",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 546.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/layouts/public.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/public_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/layouts/_navigation.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/models/subject.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/models/section.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/models/page.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/public/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/public/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/config/routes.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/db/migrate/20140821181010_permalink_updates2.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/db/migrate/20140821175644_permalink_updates.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/sections_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/pages_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/Gemfile",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/pages/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/delete.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/edit.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/new.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/subjects_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/access/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/subjects/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/pages/edit.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/pages/delete.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/pages/new.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/pages/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/admin_users/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/subjects/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/admin_users/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/admin_users/new.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/admin_users/delete.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/admin_users_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/models/admin_user.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/admin_users/edit.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/access/login.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/application_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/access_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/db/migrate/20140820220656_add_password_digest_to_admin_users.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/pages/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/helpers/application_helper.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/application/_error_messages.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/assets/stylesheets/admin.css",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/subjects/delete.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/subjects/edit.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/subjects/new.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/subjects/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/demo/text_helpers.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/helpers/subjects_helper.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/layouts/admin.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/assets/stylesheets/public.css",
+		"/Users/ryanhelsing/Downloads/Ex_Files_ROR4_EssT/Exercise Files/Chapter 11/11_03/simple_cms/app/assets/stylesheets/public.css",
+		"/Users/ryanhelsing/Downloads/Ex_Files_ROR4_EssT/Exercise Files/Chapter 11/11_03/simple_cms/app/assets/stylesheets/admin.css",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/assets/stylesheets/application.css",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/controllers/demo_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/layouts/application.html.erb",
+		"/Users/ryanhelsing/Projects/rails/simple_cms/app/views/sections/index.slim",
+		"/Users/ryanhelsing/Downloads/Ex_Files_ROR4_EssT/Exercise Files/Chapter 09/09_04/simple_cms/app/views/subjects/show.html.erb",
+		"/Users/ryanhelsing/Downloads/Ex_Files_ROR4_EssT/Exercise Files/Chapter 09/09_03/simple_cms/app/views/subjects/show.html.erb",
+		"/Users/ryanhelsing/Downloads/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/index.htm",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/Emmet/README.md",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/README.rst",
+		"/Users/ryanhelsing/Downloads/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/admissions/request.htm",
+		"/Users/ryanhelsing/Downloads/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/403.shtml",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ryanhelsing/Downloads/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/_css/main.css",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/2C3856C2-51DD-4BE7-9088-BE5DA4FEDA68/content.php",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/06D77610-9404-485B-B847-48AA1AF30842/crm.php",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/F9DFB8A9-55D6-4316-9E12-E02BF7495FDC/providers_form.php",
+		"/Users/ryanhelsing/Google Drive/sample.php",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/66D7092A-3E58-4189-BF5F-1DAE67ECBEA4/index.php",
+		"/Users/ryanhelsing/Projects/books/highschool/main.md",
+		"/Users/ryanhelsing/Downloads/bootstrap-3.1.1-dist/css/custom.css",
+		"/Users/ryanhelsing/PictureCards/PictureCards/index.html",
+		"/Users/ryanhelsing/Google Drive/e.txt",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/4720CA69-D26B-4CF9-8090-97625DE2F6B1/index.php",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/80AC517D-0A12-4D61-AEF7-4453BEDFC062/style.css",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/A8202667-03C1-414E-9521-0C008AB6D8EE/index.html",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/A549BEC6-881F-41F4-B235-40CB6A96FE05/home_style.css",
+		"/Volumes/tannerstotes.com/application/views/nav.php",
+		"/Volumes/tannerstotes.com/application/views/layout.php",
+		"/Users/ryanhelsing/Projects/gumby/Gumby-master/sass/_fonts.scss",
+		"/Users/ryanhelsing/Projects/gumby/Gumby-master/sass/_grid.scss",
+		"/Users/ryanhelsing/Projects/gumby/Gumby-master/sass/_shame.scss",
+		"/Users/ryanhelsing/Projects/gumby/Gumby-master/sass/_typography.scss",
+		"/Users/ryanhelsing/Projects/gumby/Gumby-master/sass/gumby.scss",
+		"/Users/ryanhelsing/Downloads/Ex_Files_UsingRegEx/Exercise Files/regexpal/index.html",
+		"/Users/ryanhelsing/Projects/meteor/cruddy/cruddy.html",
+		"/Users/ryanhelsing/Projects/meteor/cruddy/cruddy.js",
+		"/Users/ryanhelsing/Projects/meteor/portfolio-playground/smart.json",
+		"/Users/ryanhelsing/Projects/meteor/crud/client/welcome.js",
+		"/Volumes/tannerstotes.com/application/controllers/welcome.php",
+		"/Volumes/parsle.com/public/css/layout.css",
+		"/Users/ryanhelsing/Projects/books/heaven_short_story/readme.md",
+		"/Users/ryanhelsing/Documents/robflaherty-firstImpression.js-ea502a8/readme.md",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/config/app.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/config/auth.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/routes.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/views/users.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/controllers/UserController.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/views/layout.blade.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/database/migrations/2013_10_15_232522_create_users_table.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/config/database.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/views/users.blade.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/config/session.php",
+		"/Users/ryanhelsing/Projects/laravel/first_project/app/config/view.php",
+		"/Applications/AMPPS/www/tanners_totes/application/models/piece_model.php",
+		"/Applications/AMPPS/www/tanners_totes/application/models/post_model.php",
+		"/Applications/AMPPS/www/tanners_totes/application/models/quote_model.php",
+		"/Applications/AMPPS/www/tanners_totes/application/models/state_model.php",
+		"/Applications/AMPPS/www/tanners_totes/application/controllers/admin.php",
+		"/Applications/AMPPS/www/tanners_totes/application/controllers/index.html",
+		"/Applications/AMPPS/www/tanners_totes/application/controllers/welcome.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/location/edit.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/post/all.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/post/edit.php",
+		"/Applications/AMPPS/www/tanners_totes/application/models/city_model.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/post/images.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/post/new.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/location/new.php",
+		"/Applications/AMPPS/www/tanners_totes/application/views/post/view.php",
+		"/Applications/AMPPS/www/tanners_totes/application/models/index.html",
+		"/Applications/AMPPS/www/tanners_totes/application/models/location_model.php",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!",
+			"word",
+			"href",
+			"about",
+			"<header class=\"homeHeader pageHeader\">\n    <h1>Roux Academy of Art and Design<a href=\"/index.htm\" title=\"home\"></a></h1>\n    <nav id=\"pageNav\" class=\"cf\">\n      <ul>\n        <li><a href=\"programs/programs.htm\" title=\"programs\">Programs</a></li>\n        <li><a href=\"admissions.htm\" title=\"admissions\">Admissions</a></li>\n        <li><a href=\"student_portal.htm\" title=\"student portal\">Student Portal</a></li>\n        <li><a href=\"campus_portal.htm\" title=\"campus portal\">Campus</a></li>\n        <li><a href=\"alumni.htm\" title=\"alumni\">Alumni</a></li>\n        <li><a href=\"about/about.htm\"  title=\"about Roux Academy\">About</a></li>\n      </ul>\n    </nav>",
+			">\n",
+			"indent",
+			"334048",
+			"424f57",
+			"1c2b36",
+			"424f57",
+			"4f5d66",
+			"586671",
+			"1c7bcd",
+			"158ef6",
+			"334048",
+			"424f57",
+			"158ef6",
+			"424f57",
+			"pure-menu-heading",
+			"');\n",
+			"^[\\n]",
+			"^\\n\\n",
+			"/\\n\\n/g",
+			"^\\n",
+			"\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"http://www.processtext.com/abclit.html",
+			"ABC Amber LIT Converter",
+			"><",
+			"span",
+			".c",
+			"url(",
+			"36",
+			"37",
+			"<",
+			"filebrowserImageBrowseLinkUrl",
+			"f_i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"e4e9ef",
+			"2e404e",
+			"3c5262",
+			"334048",
+			"424f57",
+			"0b1d2a",
+			"1c2b36",
+			"4dbd74",
+			"1c2b36",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"index.htm"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": false
+}

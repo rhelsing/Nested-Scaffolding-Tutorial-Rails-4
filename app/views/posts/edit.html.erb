@@ -1,0 +1,6 @@
+<h1>Editing post</h1>
+
+<%= render 'form' %>
+
+<%= link_to 'Show', user_post_path(@post.user.id, @post.id) %> |
+<%= link_to 'Back', user_posts_path(@post.user.id) %>
