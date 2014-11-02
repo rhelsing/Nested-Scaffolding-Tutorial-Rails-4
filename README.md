@@ -6,10 +6,10 @@ Working sample of nested scaffold with Users and Posts
 ##Steps used to make project:
 ---
 
-1. rails g scaffold user name:string
-2. rails g scaffold post title:string body:string user:references
-3. Edit post migration: t.references :user >> t.belongs_to :user (optional?)
-4. Edit routes.rb
+* rails g scaffold user name:string
+* rails g scaffold post title:string body:string user:references
+* Edit post migration: t.references :user >> t.belongs_to :user (optional?)
+* Edit routes.rb
 
 ```ruby
 resources :posts
@@ -24,8 +24,8 @@ resources :users do
 end
 ```
 
-5. rake db:migrate
-6. Edit post controller
+* rake db:migrate
+* Edit post controller
 
 ```ruby
 #controllers/user.rb#index
@@ -40,16 +40,16 @@ redirect_to user_post_path(@post.user.id, @post.id) on create, update
 redirect_to user_posts_path(@post.user.id) on delete
 ```
 
-7. Edit post/_form : form_for [@user, @post]
+* Edit post/_form : form_for [@user, @post]
 
 ```erb
 <%= f.hidden_field :user_id %>
 ```
 
-9. Show and Back links on edit, new, and show
-10. Show, edit, delete, new links on index
-11. Posts link on users index
-12. rails s
+* Show and Back links on edit, new, and show
+* Show, edit, delete, new links on index
+* Posts link on users index
+* rails s and test
 
 
 ## Todo
