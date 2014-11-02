@@ -16,7 +16,7 @@ resources :posts
 resources :users
 ```
 
-# becomes:
+becomes:
 
 ```ruby
 resources :users do
